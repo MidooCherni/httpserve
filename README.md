@@ -1,1 +1,2 @@
-nothing to see here
+go build
+httpserve.exe
